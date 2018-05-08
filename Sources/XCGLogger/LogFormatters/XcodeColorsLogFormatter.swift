@@ -126,6 +126,9 @@ open class XcodeColorsLogFormatter: LogFormatterProtocol, CustomDebugStringConve
         /// Preset colour: Dark Grey
         public static let darkGrey: XcodeColor = { return XcodeColor(red: 169, green: 169, blue: 169) }()
 
+        /// Preset colour: Yellow
+        public static let yellow: XcodeColor = { return XcodeColor(red: 255, green: 255, blue: 0) }()
+        
         /// Preset colour: Orange
         public static let orange: XcodeColor = { return XcodeColor(red: 255, green: 165, blue: 0) }()
 
