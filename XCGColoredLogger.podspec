@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 
-    spec.name = 'XCGLogger'
+    spec.name = 'XCGColoredLogger'
     spec.version = '6.1.0'
     spec.summary = 'A debug log module for use in Swift projects.'
 
